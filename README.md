@@ -61,15 +61,6 @@
 - 💅 [Pitaya Nails](https://jorgezendejas1.github.io/pitaya_nails/) – Beauty & nails services website.  
 - 🌟 [Nail Station](https://jorgezendejas1.github.io/nail-station/) – Booking & services website for a nail salon.  
 
----
-
-## 📊 GitHub Stats
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgezendejas1&show_icons=true&theme=tokyonight)
-
----
-
-## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgezendejas1&layout=compact&theme=tokyonight)
 
 ---
 
