@@ -67,8 +67,8 @@
 ## 📫 Contact Me
 - ✉️ **jorge.zendejas1@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorge-zendejas-lovera-50341034)  
-- 🐦 [GitHub](https://github.com/jorgezendejas1)  
-- 🎮 Discord: [jorgezl14](https://discordapp.com/users/812722852436246609)   
+- [GitHub](https://github.com/jorgezendejas1)  
+- Discord: [jorgezl14](https://discordapp.com/users/812722852436246609)   
 
 ---
 
@@ -97,8 +97,8 @@
 ## 📫 Cómo contactarme
 - ✉️ **jorge.zendejas1@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorge-zendejas-lovera-50341034)  
-- 🐦 [GitHub](https://github.com/jorgezendejas1)  
-- 🎮 Discord: [jorgezl14](https://discordapp.com/users/812722852436246609)  
+- [GitHub](https://github.com/jorgezendejas1)  
+- Discord: [jorgezl14](https://discordapp.com/users/812722852436246609)  
 
 
 
