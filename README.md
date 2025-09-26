@@ -64,11 +64,6 @@
 
 ---
 
-## 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=jorgezendejas1&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
 ## 📫 Contact Me
 - ✉️ **jorge.zendejas1@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorge-zendejas-lovera-50341034)  
